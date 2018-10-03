@@ -1,58 +1,58 @@
 var friends = [ {
     "name" : "LeBron James",
-    "photo" : "http://www.mens-hairstylists.com/wp-content/uploads/2015/10/stylish-haircuts-for-men.jpg",
+    "photo" : "https://media.nbclosangeles.com/images/652*367/LeBron-James-debut-Lakers-San-Diego.jpg",
     "scores" : [5,4,2,5,1,1,2,1,3,5]
 }, {
     "name" : "Stephen Curry",
-    "photo" : "http://science-all.com/images/wallpapers/girl-pictures/girl-pictures-23.jpg",
+    "photo" : "https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/GettyImages-875432326_gnml9b/steph-curry-brita-commercial.jpg",
     "scores" : [3,4,2,4,4,1,1,2,3,4]
 }, {
     "name" : "Kobe Bryant",
-    "photo" : "http://images.zap2it.com/assets/p9257057_n160758_cc_v4_aa/guys-with-kids.jpg",
+    "photo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kobe_Bryant_warming_up.jpg/220px-Kobe_Bryant_warming_up.jpg",
     "scores" : [5,5,5,5,5,5,5,5,5,5]
 }, {
     "name" : "Michael Jordan",
-    "photo" : "http://www.tenerewilliams.com/wp-content/uploads/2013/02/Naomi-Grossman-headshot.jpg",
+    "photo" : "https://addicted2success.com/wp-content/uploads/2016/01/75-Motivational-Michael-Jordan-Quotes.jpg",
     "scores" : [5,2,4,3,3,2,1,3,3,4]
 }, {
     "name" : "Kevin Durant",
-    "photo" : "https://s-media-cache-ak0.pinimg.com/236x/e6/58/db/e658dbeb3518edeab6a19516b8146137.jpg",
+    "photo" : "https://b.fssta.com/uploads/2018/09/kevin_durant2_1280x720_1330830915738.vresize.780.440.high.11.jpg",
     "scores" : [4,1,5,3,4,5,2,3,4,5]
 }, {
     "name" : "Anthony Davis",
-    "photo" : "http://cdn3.thr.com/sites/default/files/2013/02/emma_roberts.jpg",
+    "photo" : "https://cdn.inquisitr.com/wp-content/uploads/2018/09/nba-news-klutch-lakers-pelicans-lebron-james-trade-anthony-davis.jpg",
     "scores" : [4,1,5,3,4,5,2,3,4,5]
 }, {
     "name" : "PJ Tucker",
-    "photo" : "https://s-media-cache-ak0.pinimg.com/564x/02/72/d2/0272d2536de31958c6dcb3bb1b447586.jpg",
+    "photo" : "https://s.hdnux.com/photos/67/62/30/14624263/3/920x920.jpg",
     "scores" : [3,4,2,4,4,1,1,2,3,4]
 }, {
     "name" : "Devin Booker",
-    "photo" : "http://kelseyedwardsphoto.com/images/gallery/Sports/74_088_FAVS_MAY_0511.jpg",
+    "photo" : "https://bballbreakdown.com/wp-content/uploads/2017/01/USATSI_9829681-e1485102270394.jpg",
     "scores" : [5,4,2,5,1,1,2,1,3,5]
 }, {
     "name" : "Andre Iguodala",
-    "photo" : "http://1.bp.blogspot.com/-6uw9bbJmPs4/VpISNZB5wOI/AAAAAAAAAag/PAQeixYQ4g8/s1600/Varun%2BDhawan%2BLatest%2BPic.jpg",
+    "photo" : "https://sports.cbsimg.net/images/visual/whatshot/101514_ig.jpg",
     "scores" : [1,5,1,3,5,1,4,3,2,1]
 }, {
     "name" : "Malcolm Brogdon",
-    "photo" : "http://1.bp.blogspot.com/-FMhfNM7lFG4/Ud8XSJsqgLI/AAAAAAAAAIs/uyMyWoJUEk0/s1600/women-medium-wavy-hairstyles.jpg",
+    "photo" : "https://amp.businessinsider.com/images/5952ac78d084cc42238b5a58-750-563.jpg",
     "scores" : [1,3,3,1,2,4,4,1,3,1]
 }, {
     "name" : "Klay Thompson",
-    "photo" : "http://d236bkdxj385sg.cloudfront.net/wp-content/uploads/2012/02/brian-white.jpg",
+    "photo" : "https://cdn.vox-cdn.com/thumbor/TJUbgfWqQ6ziGqzB82Kw0VZ4I0U=/0x0:2705x4057/1200x800/filters:focal(1179x1419:1611x1851)/cdn.vox-cdn.com/uploads/chorus_image/image/59866433/usa_today_10855724.0.jpg",
     "scores" : [5,2,4,3,3,2,1,3,3,4]
 }, {
     "name" : "Demar DeRozan",
-    "photo" : "http://benhairstyle.com/wp-content/uploads/2014/10/beautiful_hairstyles_for_young_women.jpg",
+    "photo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/DeMar_DeRozan_Nov_2016_cropped.jpg/220px-DeMar_DeRozan_Nov_2016_cropped.jpg",
     "scores" : [1,1,1,1,1,1,1,1,1,1]
 }, {
     "name" : "Chris Bosh",
-    "photo" : "https://s-media-cache-ak0.pinimg.com/736x/09/0f/e7/090fe7f53967e0a0da51f12fa147e01d.jpg",
+    "photo" : "https://usatftw.files.wordpress.com/2017/12/ap_heat_wizards_basketball_78621138-e1512875770111.jpg?w=1000&h=600&crop=1",
     "scores" : [2,3,5,5,3,5,2,1,3,2]
 }, {
     "name" : "Vince Carter",
-    "photo" : "http://harvardsol.com/wp-content/uploads/2016/07/impressive-new-haircuts-for-young-men-all-inspirational-article.jpg",
+    "photo" : "https://www.opencourt-basketball.com/wp-content/uploads/2018/07/carter-hawks.jpg",
     "scores" : [2,3,5,5,3,5,2,1,3,2]
 }];
 
